@@ -6,3 +6,4 @@ This is my second repository. It contains a project named "Build An Apartment".
 Google VR SDK for Unity v1.50
 # Unity version used in this project
 Unity 5.5.1f1 (64-bit)
+# I am submitting for Android.
